@@ -27,8 +27,8 @@ Before running the application, make sure you have the following installed:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/candidate-management-app.git
-cd candidate-management-app
+git clone https://github.com/lenazheg/CheckNet.git
+cd CheckNet
 
 ### 2. Set up the backend
 
